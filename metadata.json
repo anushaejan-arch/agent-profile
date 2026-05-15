@@ -1,0 +1,6 @@
+{
+  "name": "Bayut Agent Profile Prototype",
+  "description": "A high-fidelity, pixel-perfect reproduction of the Bayut agent profile page for Fiona Lee, featuring follow notifications, agent badges, and transaction filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
